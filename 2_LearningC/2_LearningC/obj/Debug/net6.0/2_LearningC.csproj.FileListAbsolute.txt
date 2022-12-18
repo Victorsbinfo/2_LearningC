@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\bin\Debug\net6.0\2_LearningC.exe
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\bin\Debug\net6.0\2_LearningC.deps.json
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\bin\Debug\net6.0\2_LearningC.runtimeconfig.json
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\bin\Debug\net6.0\2_LearningC.dll
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\bin\Debug\net6.0\2_LearningC.pdb
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.AssemblyInfo.cs
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.dll
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\refint\2_LearningC.dll
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.pdb
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\2_LearningC.genruntimeconfig.cache
+C:\Users\victo\source\repos\2_LearningC\2_LearningC\obj\Debug\net6.0\ref\2_LearningC.dll
